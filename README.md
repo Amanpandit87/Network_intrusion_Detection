@@ -69,5 +69,6 @@ The target variable is:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/network-intrusion-detection.git
-cd network-intrusion-detection
+
+
+https://github.com/Amanpandit87/Network_intrusion_Detection
